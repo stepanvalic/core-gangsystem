@@ -1,11 +1,11 @@
 # core-gangsystem
 The Gang System Script is a custom script designed for a FiveM server to manage player gangs and associated features. It enables players to create, manage, and interact with gangs in the game world, and let admins control all the gang. this is a simple gang system.
 
-for QBCore framework
+for QBCore framework or QBOX
 
 requirements:
 
--qb-core
+-qb-core or qbx_core
 
 -ox_lib
 
