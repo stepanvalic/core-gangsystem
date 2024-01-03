@@ -12,6 +12,4 @@ requirements:
 [preview](https://streamable.com/fdie81)
 
 
-[discord](https://discord.gg/k8XNJbD4T7)
-
-
+Made compatible for Qbox - join my discord to talk about developing https://discord.gg/9HhAvVKuhM
